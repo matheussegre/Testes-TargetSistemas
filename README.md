@@ -1,4 +1,4 @@
-#Desafio Target Sistemas
+# Desafio Target Sistemas
 
 ## A resposta do desafio 3 está no program.cs, também vou deixar ela abaixo:
 
@@ -42,3 +42,5 @@ Console.WriteLine($"Menor faturamento: {MenorFaturamento}");
 Console.WriteLine($"Maior faturamento: {MaiorFaturamento}");
 Console.WriteLine($"Dias com faturamento acima da média: {diasAcimaDaMedia}");
 ```
+
+# Desafio 4
